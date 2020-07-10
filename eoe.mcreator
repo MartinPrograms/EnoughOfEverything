@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sdrf"
+    },
+    {
+      "name": "Asfd",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "asfd"
     }
   ],
   "variable_elements": [],
@@ -25,7 +34,8 @@
   "language_map": {
     "en_us": {
       "item.eoe.sdrf": "Sdrf",
-      "item.eoe.sdrf.desc": "sfda"
+      "item.eoe.sdrf.desc": "sfda",
+      "item.eoe.asfd": "Asfd"
     }
   },
   "workspaceSettings": {
