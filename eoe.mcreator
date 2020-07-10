@@ -9,12 +9,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "b"
+    },
+    {
+      "name": "Sdrf",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdrf"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.eoe.sdrf": "Sdrf",
+      "item.eoe.sdrf.desc": "sfda"
+    }
   },
   "workspaceSettings": {
     "modid": "eoe",

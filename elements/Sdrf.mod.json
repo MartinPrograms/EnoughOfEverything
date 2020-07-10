@@ -1,0 +1,19 @@
+{
+  "_fv": 8,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "dsf",
+    "name": "Sdrf",
+    "description": "sfda",
+    "creativeTab": {
+      "value": "TRANSPORTATION"
+    },
+    "music": {
+      "value": "block.anvil.break"
+    },
+    "specialInfo": [
+      "ah"
+    ],
+    "hasGlow": true
+  }
+}
